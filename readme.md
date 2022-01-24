@@ -22,5 +22,6 @@
  2. Marvel at its beauty.
 
     !https://media.istockphoto.com/vectors/cute-penguin-icon-in-flat-style-vector-id868646936?k=20&m=868646936&s=612x612&w=0&h=pPboMcao8F1Xc7WC6RDzesNc1ilFTaRUUSY7wM82Mu8= 
+    https://d33wubrfki0l68.cloudfront.net/e7ed9fe4bafe46e275c807d63591f85f9ab246ba/e2d28/assets/images/tux.png
  3. Close the file.
 
