@@ -21,7 +21,6 @@
  1. Open the file containing the Linux mascot.
  2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
-
+    https://media.istockphoto.com/vectors/cute-penguin-icon-in-flat-style-vector-id868646936?k=20&m=868646936&s=612x612&w=0&h=pPboMcao8F1Xc7WC6RDzesNc1ilFTaRUUSY7wM82Mu8= 
  3. Close the file.
 
