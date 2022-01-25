@@ -28,8 +28,10 @@
  <https://www.markdownguide.org>
  
  <fake@example.com> 
- A list of my favourite flavours of icecream:
+ 
+ >A list of my favourite flavours of icecream:
  - chocolate
-
+ - strawberry
+ - vanilla 
 
 
